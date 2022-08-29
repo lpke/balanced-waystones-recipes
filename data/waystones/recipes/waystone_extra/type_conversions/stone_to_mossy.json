@@ -7,8 +7,8 @@
     "XXX"
   ],
   "key": {
-    "W": "waystones:waystone",
-    "X": "minecraft:mossy_stone_bricks"
+    "W": { "item": "waystones:waystone" },
+    "X": { "item": "minecraft:mossy_stone_bricks" }
   },
   "result": {
     "item": "waystones:mossy_waystone"
