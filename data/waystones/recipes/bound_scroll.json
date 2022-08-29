@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TET",
+    "RRR"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "R": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "waystones:bound_scroll"
+  }
+}
