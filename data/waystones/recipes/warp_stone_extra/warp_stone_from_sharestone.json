@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "warpstone_recipes",
+  "ingredients": [
+    {
+      "item": "waystones:sharestone"
+    }
+  ],
+  "result": {
+    "item": "waystones:warp_stone"
+  }
+}

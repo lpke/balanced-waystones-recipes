@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warpstone_recipes",
+  "pattern": [
+    "TET",
+    "ENE",
+    "TET"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "waystones:warp_stone"
+  }
+}
