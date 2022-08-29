@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "converted_sandy_waystone",
+  "pattern": [
+    "XXX",
+    "XWX",
+    "XXX"
+  ],
+  "key": {
+    "W": "waystones:mossy_waystone",
+    "X": "minecraft:chiseled_sandstone"
+  },
+  "result": {
+    "item": "waystones:sandy_waystone"
+  }
+}

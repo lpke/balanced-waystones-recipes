@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "warpstone_recipes",
+  "group": "extracted_warp_stone",
   "ingredients": [
     {
       "item": "waystones:portstone"
