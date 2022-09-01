@@ -1,12 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " D ",
+    "DMD",
     "TET",
-    "RRR"
+    "DTD"
   ],
   "key": {
     "D": {
+      "item": "minecraft:chiseled_deepslate"
+    },
+    "M": {
       "item": "minecraft:diamond"
     },
     "T": {
@@ -14,9 +17,6 @@
     },
     "E": {
       "item": "minecraft:ender_eye"
-    },
-    "R": {
-      "item": "minecraft:paper"
     }
   },
   "result": {
