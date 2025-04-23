@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "converted_blackstone_waystone",
+  "group": "waystone_conversion",
   "pattern": [
     "XXX",
     "XWX",

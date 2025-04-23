@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "portstone_conversion",
+  "pattern": [
+    "DDD",
+    "DPD",
+    "DDD"
+  ],
+  "key": {
+    "P": "#waystones:portstones",
+    "D": "minecraft:lime_dye"
+  },
+  "result": {
+    "id": "waystones:lime_portstone"
+  }
+} 

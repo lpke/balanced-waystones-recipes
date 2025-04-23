@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "BWB",
+    "OOO"
+  ],
+  "key": {
+    "E": "minecraft:ender_eye",
+    "B": "minecraft:blackstone",
+    "W": "waystones:warp_stone",
+    "O": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "id": "waystones:blackstone_waystone"
+  }
+} 

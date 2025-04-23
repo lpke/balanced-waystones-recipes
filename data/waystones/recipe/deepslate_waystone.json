@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "DWD",
+    "OOO"
+  ],
+  "key": {
+    "E": "minecraft:ender_eye",
+    "D": "minecraft:deepslate",
+    "W": "waystones:warp_stone",
+    "O": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "id": "waystones:deepslate_waystone"
+  }
+} 

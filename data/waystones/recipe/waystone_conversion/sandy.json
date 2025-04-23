@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "converted_sandy_waystone",
+  "group": "waystone_conversion",
   "pattern": [
     "XXX",
     "XWX",

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sharestone_conversion",
+  "pattern": [
+    "DDD",
+    "DSD",
+    "DDD"
+  ],
+  "key": {
+    "S": "#waystones:sharestones",
+    "D": "minecraft:magenta_dye"
+  },
+  "result": {
+    "id": "waystones:magenta_sharestone"
+  }
+} 

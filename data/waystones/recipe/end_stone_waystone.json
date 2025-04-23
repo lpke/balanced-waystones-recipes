@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "NWN",
+    "OOO"
+  ],
+  "key": {
+    "E": "minecraft:ender_eye",
+    "N": "minecraft:end_stone_bricks",
+    "W": "waystones:warp_stone",
+    "O": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "id": "waystones:end_stone_waystone"
+  }
+} 

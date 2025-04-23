@@ -1,17 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " H ",
+    "DHD",
     "NWN",
     "BBB"
   ],
   "key": {
+    "D": "minecraft:red_dye",
     "H": "minecraft:nether_star",
     "N": "minecraft:netherite_ingot",
     "W": "waystones:warp_stone",
     "B": "minecraft:diamond_block"
   },
   "result": {
-    "id": "waystones:white_portstone"
+    "id": "waystones:red_portstone"
   }
-}
+} 

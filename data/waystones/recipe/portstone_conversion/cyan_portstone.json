@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "portstone_conversion",
+  "pattern": [
+    "DDD",
+    "DPD",
+    "DDD"
+  ],
+  "key": {
+    "P": "#waystones:portstones",
+    "D": "minecraft:cyan_dye"
+  },
+  "result": {
+    "id": "waystones:cyan_portstone"
+  }
+} 
