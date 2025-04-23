@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DTD",
+    "TET",
+    "DRD"
+  ],
+  "key": {
+    "T": "minecraft:amethyst_shard",
+    "D": "minecraft:chiseled_deepslate",
+    "E": "minecraft:ender_eye",
+    "R": "minecraft:resin_clump"
+  },
+  "result": {
+    "id": "waystones:blank_scroll"
+  }
+}

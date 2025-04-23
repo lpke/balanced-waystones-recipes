@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DGD",
+    "GPG",
+    "DRD"
+  ],
+  "key": {
+    "D": "minecraft:chiseled_deepslate",
+    "G": "minecraft:gold_ingot",
+    "P": "minecraft:ender_pearl",
+    "R": "minecraft:resin_clump"
+  },
+  "result": {
+    "id": "waystones:return_scroll"
+  }
+}

@@ -7,10 +7,10 @@
     "XXX"
   ],
   "key": {
-    "W": { "item": "waystones:mossy_waystone" },
-    "X": { "item": "minecraft:chiseled_sandstone" }
+    "W": "#waystones:waystones" ,
+    "X": "minecraft:chiseled_sandstone"
   },
   "result": {
-    "item": "waystones:sandy_waystone"
+    "id": "waystones:sandy_waystone"
   }
 }

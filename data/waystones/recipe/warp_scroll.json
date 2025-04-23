@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DMD",
+    "TET",
+    "DRD"
+  ],
+  "key": {
+    "D": "minecraft:chiseled_deepslate",
+    "M": "minecraft:diamond",
+    "T": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_eye",
+    "R": "minecraft:resin_clump"
+  },
+  "result": {
+    "id": "waystones:warp_scroll"
+  }
+}

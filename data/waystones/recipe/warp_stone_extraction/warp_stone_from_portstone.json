@@ -2,11 +2,9 @@
   "type": "minecraft:crafting_shapeless",
   "group": "extracted_warp_stone",
   "ingredients": [
-    {
-      "item": "waystones:waystone"
-    }
+    "#waystones:portstones"
   ],
   "result": {
-    "item": "waystones:warp_stone"
+    "id": "waystones:warp_stone"
   }
 }

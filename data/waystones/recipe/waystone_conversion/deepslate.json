@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "converted_deepslate_waystone",
+  "pattern": [
+    "XXX",
+    "XWX",
+    "XXX"
+  ],
+  "key": {
+    "W": "#waystones:waystones" ,
+    "X": "minecraft:deepslate"
+  },
+  "result": {
+    "id": "waystones:deepslate_waystone"
+  }
+}

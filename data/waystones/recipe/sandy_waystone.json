@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "CWC",
+    "OOO"
+  ],
+  "key": {
+    "E": "minecraft:ender_eye",
+    "C": "minecraft:chiseled_sandstone",
+    "W": "waystones:warp_stone",
+    "O":"minecraft:crying_obsidian"
+  },
+  "result": {
+    "id": "waystones:sandy_waystone"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warp_stone",
+  "pattern": [
+    "UEU",
+    "SNS",
+    "UEU"
+  ],
+  "key": {
+    "U": "waystones:warp_dust",
+    "E": "minecraft:ender_eye",
+    "S": "minecraft:echo_shard",
+    "N":"minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "waystones:warp_stone"
+  }
+}

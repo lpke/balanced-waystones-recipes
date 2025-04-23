@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RWR",
+    "WFW",
+    "RWR"
+  ],
+  "key": {
+    "W": "waystones:warp_dust",
+    "F": "minecraft:flint",
+    "R": "minecraft:resin_bricks"
+  },
+  "result": {
+    "id": "waystones:warp_plate"
+  }
+}

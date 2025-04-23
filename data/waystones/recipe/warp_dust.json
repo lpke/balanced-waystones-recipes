@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:ender_pearl",
+    "minecraft:amethyst_shard",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "waystones:warp_dust"
+  }
+}
